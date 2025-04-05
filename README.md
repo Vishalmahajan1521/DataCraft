@@ -42,3 +42,26 @@ DataCraft is your intelligent assistant 🤖 that simplifies Exploratory Data An
    ```bash
    git clone https://github.com/Vishalmahajan1521/DataCraft.git
    cd DataCraft
+2. **Install Dependencies** 📦:
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Application** 🚀:
+   ```bash
+   python app.py
+  
+Open your browser and navigate to http://127.0.0.1:5000 🌐.
+
+## Usage 🎯
+**Upload a Dataset** 📤: Use the web interface to upload a CSV file.
+**Analyze Data** 🔍: DataCraft performs EDA and displays results like missing values, outliers, and recommendations.
+**Preprocess and Model** 🛠️: Specify a target column for preprocessing steps and model suggestions.
+**Generate Reports** 📜: Export analysis results as an HTML report.
+
+## Project Structure 📂
+DataCraft/
+├── app.py              # Main Flask application 🌐
+├── uploads/            # Directory for uploaded files 📁
+├── templates/          # HTML templates (e.g., index.html) 📝
+├── README.md           # Project documentation 📘
+└── requirements.txt    # Dependencies 📋
+
