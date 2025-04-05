@@ -62,7 +62,6 @@ Open your browser and navigate to http://127.0.0.1:5000 🌐.
 DataCraft/
 ├── app.py              # Main Flask application 🌐
 ├── uploads/            # Directory for uploaded files 📁
-├── templates/          # HTML templates (e.g., index.html) 📝
-├── README.md           # Project documentation 📘
+├── templates/          # HTML templates (index.html) 📝
 └── requirements.txt    # Dependencies 📋
 
